@@ -1,1 +1,2 @@
 doc 3 test
+adding line to doc 3
