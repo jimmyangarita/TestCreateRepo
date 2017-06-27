@@ -1,2 +1,3 @@
 doc 2 test
 adding line
+adding a new line in doc2 from jhon
