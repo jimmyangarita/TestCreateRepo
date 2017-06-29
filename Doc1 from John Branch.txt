@@ -1,2 +1,3 @@
+It is a document dreated from TestCloneRepo in jhon bracnh
 john branch line1
 john branch line2
