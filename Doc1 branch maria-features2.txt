@@ -1,0 +1,2 @@
+Trellis Ear 0.0.28.105(Svn Revision : 385292) Contents Info
+Ear creation Date : Mon Mar 27 02:03:24 EDT 2017
